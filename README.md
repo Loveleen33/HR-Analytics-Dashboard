@@ -75,6 +75,10 @@ The HR Analytics Dashboard enables efficient tracking and analysis of workforce 
 
 ---
 
+### 🔗 Let’s Connect
 
+📩 [Reach out on LinkedIn] www.linkedin.com/in/loveleen-arora-28097b267
+📞 8595879861 ,8447661428
+📧 Open for job & collaborations in SQL/Data Analytics  
 
 
